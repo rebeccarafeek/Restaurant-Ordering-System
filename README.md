@@ -16,4 +16,4 @@ Key Concepts Practiced
 - Dynamic Memory Management: Handling memory allocation and deallocation.
 
 Tech Stack
-Language: C++
+- Language: C++
