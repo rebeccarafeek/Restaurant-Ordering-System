@@ -1,5 +1,5 @@
 # Restaurant-Ordering-System
-This was my final project for the OOP244 course. It is a a C++ application.
+This was my final project for the OOP244 course. It is a C++ application.
 
 Overview
 This project is a C++ application designed to help restaurant waiters efficiently take customer orders for food and drinks and generate detailed bills. Each order results in a unique bill that is saved as a separate file for easy tracking and record-keeping.
